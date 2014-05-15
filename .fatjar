@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Oct 28 16:13:31 CET 2009
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=WikiPagesChartlist.jar
+manifest.mergeall=true
+manifest.mainclass=ch.hsr.ifw.wikipageschartlist.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
